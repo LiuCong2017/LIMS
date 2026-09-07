@@ -36,7 +36,7 @@
     - Reliability Test Report
     - [AQP](https://github.com/LiuCong2017/AI-Quotation-Platform)
   - **Test Devices Data Collection**
-    - Modbus, MQTT, RS232, RS485, OPC-UA
+    - DCS/SCADA, Modbus, MQTT, RS232, RS485, OPC-UA
     - [KS7](https://github.com/LiuCong2017/kai-s7 is private)
     - [MES](https://github.com/VHL-Playground/Open-MES)
   - **Visual Recognition and Defect Detection**
