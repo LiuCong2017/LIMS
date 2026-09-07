@@ -6,7 +6,7 @@
 ---
 #### Tech Stack:
   * Java, SpringBoot, SpringCloud, MyBatis Plus
-  * MySQL, PostgreSQL, Redis
+  * MySQL, PostgreSQL, Redis, MiniIO
   * MQ (RabbitMQ)
   * Vue3, uniapp
   * Android, Kotlin, JetpackCompose, C++
