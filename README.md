@@ -30,10 +30,11 @@
     - Test Report
     - Inspection Report
     - Reliability Test Report
+    - [see](https://github.com/LiuCong2017/AI-Quotation-Platform)
   - **Test Devices Data Collection**
     - Modbus, MQTT, RS232, RS485, OPC-UA
   - **Visual Recognition and Defect Detection**
-    - [see](https://github.com/LiuCong2017/AI-AVI)
     - Visual Inspection and Automated Image Data Acquisition
     - AI-Powered Visual Analysis
+    - [see](https://github.com/LiuCong2017/AI-AVI)
 
