@@ -4,12 +4,12 @@
 - AI赋能，主要面向TE的管理系统, MKT/CS, PE, ME, QA, Buiyer/Vendor协作
 ---
 #### Tech Stack:
-  * Java
-  * SpringBoot, SpringCloud, MyBatis Plus
+  * Java, SpringBoot, SpringCloud, MyBatis Plus
   * MySQL, PostgreSQL, Redis
   * MQ (RabbitMQ)
-  * Vue3,, uniapp
-  * LLM Agent, SpringAI
+  * Vue3, uniapp
+  * Android, Kotlin, JetpackCompose, C++
+  * LLM Agent, LangChain4j
 ---
 #### Modules
   - **Master Data Subsystem**
