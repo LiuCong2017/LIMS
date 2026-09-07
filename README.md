@@ -24,7 +24,7 @@
     - [see](https://github.com/LiuCong2017/kai-bioa is private)
   - **PLM System Integration**
     - FAI
-    - [see]("Sorry, kai-open-plm is private")
+    - [see](https://github.com/LiuCong2017/kai-open-plm is private)
   - **Test Sample Asset Management**
     - Sample Management
     - Test Auxiliary Materials Management
