@@ -29,7 +29,7 @@
     - Inspection Report
     - Reliability Test Report
   - **Test Devices Data Collection**
-    - Modbus, MQTT, USB-232, 485, OPC-UA
+    - Modbus, MQTT, RS232, RS485, OPC-UA
   - **Visual Recognition and Defect Detection**
     - Visual Inspection and Automated Image Data Acquisition
     - AI-Powered Visual Analysis
