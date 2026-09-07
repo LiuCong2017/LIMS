@@ -17,6 +17,7 @@
     - NPI Data
     - Test Specification Document
     - Appearance Data Storage and Data Traceability
+    - [see](https://github.com/VHL-Playground/Open-EDMS)
   - **Test Order Management**
     - Test Order Templates Management
     - Automatic Test Order Scheduling
@@ -29,6 +30,7 @@
     - Sample Management
     - Test Auxiliary Materials Management
     - [see](https://github.com/LiuCong2017/kai-am is private)
+    - [see](https://github.com/VHL-Playground/Open-WMS)
   - **Report Management** (Report design, Auto Gen & Analysis)
     - Test Report
     - Inspection Report
@@ -37,8 +39,10 @@
   - **Test Devices Data Collection**
     - Modbus, MQTT, RS232, RS485, OPC-UA
     - [see](https://github.com/LiuCong2017/kai-s7 is private)
+    - [see](https://github.com/VHL-Playground/Open-MES)
   - **Visual Recognition and Defect Detection**
     - Visual Inspection and Automated Image Data Acquisition
     - AI-Powered Visual Analysis
+    - [see](https://github.com/VHL-Playground/Open-Vision)
     - [see](https://github.com/LiuCong2017/AI-AVI)
 
