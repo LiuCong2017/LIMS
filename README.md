@@ -1,8 +1,8 @@
 # LIMS
 实验室信息管理系统（Laboratory Information Management System）
 ---
-- > #Industrial Softwware #AI赋能
 - 主要面向TE的管理系统, MKT/CS, PE, ME, QA, Buiyer/Vendor协作
+  > #Industrial Software #AI赋能
 ---
 #### Tech Stack:
   * Java, SpringBoot, SpringCloud, MyBatis Plus
