@@ -21,11 +21,14 @@
     - Test Order Templates Management
     - Automatic Test Order Scheduling
     - Test Order Lifecycle Management
+    - [see]("Sorry, kai-bioa is private")
   - **PLM System Integration**
     - FAI
+    - [see]("Sorry, kai-open-plm is private")
   - **Test Sample Asset Management**
     - Sample Management
     - Test Auxiliary Materials Management
+    - [see]("Sorry, kai-am is private")
   - **Report Management** (Report design, Auto Gen & Analysis)
     - Test Report
     - Inspection Report
@@ -33,6 +36,7 @@
     - [see](https://github.com/LiuCong2017/AI-Quotation-Platform)
   - **Test Devices Data Collection**
     - Modbus, MQTT, RS232, RS485, OPC-UA
+    - [see]("Sorry, kai-s7 is private")
   - **Visual Recognition and Defect Detection**
     - Visual Inspection and Automated Image Data Acquisition
     - AI-Powered Visual Analysis
