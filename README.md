@@ -1,14 +1,36 @@
 # LIMS
 实验室信息管理系统（Laboratory Information Management System）
 ---
+- AI赋能，主要面向TE的管理系统, Vendor, MKT, PE, ME, QA, CS, Buiyer协作
+---
 #### Tech Stack:
   * Java
   * SpringBoot, SpringCloud, MyBatis Plus
   * MySQL, PostgreSQL, Redis
   * MQ (RabbitMQ)
   * Vue3,, uniapp
-  * LLM Agent
+  * LLM Agent, SpringAI
 ---
 #### Modules
-  - **Test Item Management Module**
+  - **Master Data Subsystem**
+    - NPI Data
+    - Test Specification Document
+  - **Test Order Management**
+    - Test Order Templates Management
     - Automatic Test Order Scheduling
+    - Test Order Lifecycle Management
+  - **PLM System Integration**
+    - FAI
+  - **Test Sample Asset Management**
+    - Sample Management
+    - Test Auxiliary Materials Management
+  - **Report Management** (Report design, Auto Gen & Analysis)
+    - Test Report
+    - Inspection Report
+    - Reliability Test Report
+  - **Test Devices Data Collection**
+    - Modbus, MQTT, USB-232, 485, OPC-UA
+  - **Visual Recognition and Defect Detection**
+    - Visual Inspection and Automated Image Data Acquisition
+    - AI-Powered Visual Analysis
+
