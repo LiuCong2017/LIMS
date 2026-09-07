@@ -1,5 +1,5 @@
 # LIMS
-实验室信息管理系统（Laboratory Information Management System  #Industrial-Software #AI赋能）
+实验室信息管理系统（Laboratory Information Management System）
 ---
 - 主要面向TE的管理系统, MKT/CS, PE, ME, QA, Buiyer/Vendor协作
 ---
